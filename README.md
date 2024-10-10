@@ -6,6 +6,7 @@ Savvy is a personal budgeting tool designed to help you track your income and ex
 2. Make sure you have Python installed (Version 3.11 recommended).
 3. If you're on windows run setup.bat, if not then you can manually install the dependencies.
 4. Run main.pyw to launch the application.
+5. If you don't have python or want an easier experience you can also download the executable from our releases.
 
 ## Features
 - **Add Income/Expense Transactions**: Easily add income or expense transactions, categorize them, and see the updated balance.
